@@ -13,11 +13,9 @@
 
 ### Preview
 ![My Pookalam](pookalam_with_greeting.png)
-*Add more images if you have multiple views or animations*
 
-### Features
-- [Feature 1 - e.g., "Colorful geometric patterns"]
-- [Feature 2 - e.g., "Interactive elements"]
+
+
 
 ## 🚀 How to Run
 
