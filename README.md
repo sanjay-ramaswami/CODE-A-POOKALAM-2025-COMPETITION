@@ -12,7 +12,7 @@
 [Write a brief description of your Pookalam design, inspiration, or the approach you took]
 
 ### Preview
-![My Pookalam](output/pookalam-preview.png)
+![My Pookalam](pookalam_with_greeting.png)
 *Add more images if you have multiple views or animations*
 
 ### Features
